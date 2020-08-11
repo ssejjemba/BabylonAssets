@@ -1,0 +1,476 @@
+[
+    {
+        "modelType": "person",
+        "instances": [
+            {
+                "name": "Camera 1",
+                "origin": { "x": 0, "y": 1.7, "z": 2 },
+                "size": { "width": 0, "height": 0, "depth": 0 },
+                "data": { "fov_degrees": 90, "type": "walking", "rotation_degrees": -0 },
+                "instanceID": "0"
+            }
+        ]
+    },
+    {
+        "modelType": "baybacking",
+        "instances": [
+            {
+                "origin": { "x": -0.5, "y": 0, "z": -1 },
+                "size": { "width": 1.333333, "height": 1.833333, "depth": 0.03 },
+                "instanceID": "1"
+            },
+            {
+                "origin": { "x": 0, "y": 0, "z": -2.25 },
+                "size": { "width": 1, "height": 2.333333, "depth": 0.03 },
+                "instanceID": "28"
+            },
+            {
+                "origin": { "x": -2, "y": 0, "z": -1.75 },
+                "size": { "width": 1, "height": 1.333333, "depth": 0.03 },
+                "instanceID": "55"
+            }
+        ]
+    },
+    {
+        "modelType": "shelf",
+        "instances": [
+            {
+                "origin": { "x": -0.5, "y": 1.466667, "z": -1 },
+                "size": { "width": 1.333333, "height": 0.033333, "depth": 0.5 },
+                "instanceID": "2"
+            },
+            {
+                "origin": { "x": -0.5, "y": 1.1, "z": -1 },
+                "size": { "width": 1.333333, "height": 0.033333, "depth": 0.5 },
+                "instanceID": "17"
+            },
+            {
+                "origin": { "x": -0.5, "y": 0.733333, "z": -1 },
+                "size": { "width": 1.333333, "height": 0.033333, "depth": 0.5 },
+                "instanceID": "25"
+            },
+            {
+                "origin": { "x": -0.5, "y": 0.366667, "z": -1 },
+                "size": { "width": 1.333333, "height": 0.033333, "depth": 0.5 },
+                "instanceID": "26"
+            },
+            {
+                "origin": { "x": -0.5, "y": -0, "z": -1 },
+                "size": { "width": 1.333333, "height": 0.066, "depth": 0.5 },
+                "instanceID": "27"
+            },
+            {
+                "origin": { "x": 0, "y": 1.866667, "z": -2.25 },
+                "size": { "width": 1, "height": 0.033333, "depth": 0.5 },
+                "instanceID": "29"
+            },
+            {
+                "origin": { "x": 0, "y": 1.4, "z": -2.25 },
+                "size": { "width": 1, "height": 0.033333, "depth": 0.5 },
+                "instanceID": "51"
+            },
+            {
+                "origin": { "x": 0, "y": 0.933333, "z": -2.25 },
+                "size": { "width": 1, "height": 0.033333, "depth": 0.5 },
+                "instanceID": "52"
+            },
+            {
+                "origin": { "x": 0, "y": 0.466667, "z": -2.25 },
+                "size": { "width": 1, "height": 0.033333, "depth": 0.5 },
+                "instanceID": "53"
+            },
+            {
+                "origin": { "x": 0, "y": -0, "z": -2.25 },
+                "size": { "width": 1, "height": 0.066, "depth": 0.5 },
+                "instanceID": "54"
+            },
+            {
+                "origin": { "x": -2, "y": 1.066666, "z": -1.75 },
+                "size": { "width": 1, "height": 0.033333, "depth": 0.5 },
+                "instanceID": "56"
+            },
+            {
+                "origin": { "x": -2, "y": 0.799999, "z": -1.75 },
+                "size": { "width": 1, "height": 0.033333, "depth": 0.5 },
+                "instanceID": "64"
+            },
+            {
+                "origin": { "x": -2, "y": 0.466668, "z": -1.75 },
+                "size": { "width": 1, "height": 0.033333, "depth": 0.5 },
+                "instanceID": "65"
+            },
+            {
+                "origin": { "x": -2, "y": 0.22526, "z": -1.75 },
+                "size": { "width": 1, "height": 0.033333, "depth": 0.5 },
+                "instanceID": "66"
+            },
+            {
+                "origin": { "x": -2, "y": 0, "z": -1.75 },
+                "size": { "width": 1, "height": 0.066, "depth": 0.5 },
+                "instanceID": "74"
+            }
+        ]
+    },
+    {
+        "modelType": "product",
+        "instances": [
+            {
+                "origin": { "x": -0.166667, "y": 1.5, "z": -0.75 },
+                "size": { "width": 0.1, "height": 0.15, "depth": 0 },
+                "instanceID": "3"
+            },
+            {
+                "origin": { "x": 0.25, "y": 1.5, "z": -0.75 },
+                "size": { "width": 0.1, "height": 0.15, "depth": 0 },
+                "instanceID": "10"
+            },
+            {
+                "origin": { "x": 0.083333, "y": 1.133333, "z": -0.75 },
+                "size": { "width": 0.1, "height": 0.15, "depth": 0 },
+                "instanceID": "18"
+            },
+            {
+                "origin": { "x": 0.166667, "y": 1.9, "z": -2 },
+                "size": { "width": 0.1, "height": 0.15, "depth": 0 },
+                "instanceID": "30"
+            },
+            {
+                "origin": { "x": 0.416667, "y": 1.9, "z": -2 },
+                "size": { "width": 0.1, "height": 0.15, "depth": 0 },
+                "instanceID": "37"
+            },
+            {
+                "origin": { "x": 0.75, "y": 1.9, "z": -2 },
+                "size": { "width": 0.1, "height": 0.15, "depth": 0 },
+                "instanceID": "44"
+            },
+            {
+                "origin": { "x": -1.05, "y": 1.1, "z": -1.5 },
+                "size": { "width": 0.1, "height": 0.15, "depth": 0 },
+                "instanceID": "57"
+            },
+            {
+                "origin": { "x": -1.583333, "y": 0.258593, "z": -1.5 },
+                "size": { "width": 0.1, "height": 0.15, "depth": 0 },
+                "instanceID": "67"
+            },
+            {
+                "origin": { "x": -1.95, "y": 0.066, "z": -1.5 },
+                "size": { "width": 0.1, "height": 0.15, "depth": 0 },
+                "instanceID": "75"
+            }
+        ]
+    },
+    {
+        "modelType": "price",
+        "instances": [
+            {
+                "origin": { "x": -0.216667, "y": 1.466667, "z": -0.5 },
+                "size": { "width": 0.1, "height": 0.033333, "depth": 0 },
+                "instanceID": "4"
+            },
+            {
+                "origin": { "x": 0.2, "y": 1.466667, "z": -0.5 },
+                "size": { "width": 0.1, "height": 0.033333, "depth": 0 },
+                "instanceID": "11"
+            },
+            {
+                "origin": { "x": 0.033333, "y": 1.1, "z": -0.5 },
+                "size": { "width": 0.1, "height": 0.033333, "depth": 0 },
+                "instanceID": "19"
+            },
+            {
+                "origin": { "x": 0.116667, "y": 1.866667, "z": -1.75 },
+                "size": { "width": 0.1, "height": 0.033333, "depth": 0 },
+                "instanceID": "31"
+            },
+            {
+                "origin": { "x": 0.366667, "y": 1.866667, "z": -1.75 },
+                "size": { "width": 0.1, "height": 0.033333, "depth": 0 },
+                "instanceID": "38"
+            },
+            {
+                "origin": { "x": 0.7, "y": 1.866667, "z": -1.75 },
+                "size": { "width": 0.1, "height": 0.033333, "depth": 0 },
+                "instanceID": "45"
+            },
+            {
+                "origin": { "x": -1.1, "y": 1.066666, "z": -1.25 },
+                "size": { "width": 0.1, "height": 0.033333, "depth": 0 },
+                "instanceID": "58"
+            },
+            {
+                "origin": { "x": -1.633333, "y": 0.22526, "z": -1.25 },
+                "size": { "width": 0.1, "height": 0.033333, "depth": 0 },
+                "instanceID": "68"
+            },
+            {
+                "origin": { "x": -2, "y": 0.032667, "z": -1.25 },
+                "size": { "width": 0.1, "height": 0.033333, "depth": 0 },
+                "instanceID": "76"
+            }
+        ]
+    },
+    {
+        "modelType": "priceblocklabel",
+        "instances": [
+            {
+                "origin": { "x": -0.166667, "y": 1.4815, "z": -0.5 },
+                "size": { "width": 0.007, "height": 0.014333, "depth": 0 },
+                "data": { "text": "$", "font_size": 36 },
+                "instanceID": "5"
+            },
+            {
+                "origin": { "x": -0.2125, "y": 1.4705, "z": -0.5 },
+                "size": { "width": 0.0435, "height": 0.025333, "depth": 0 },
+                "data": { "text": "1.99", "font_size": 64 },
+                "instanceID": "6"
+            },
+            {
+                "origin": { "x": -0.154167, "y": 1.488167, "z": -0.5 },
+                "size": { "width": 0.035, "height": 0.007667, "depth": 0 },
+                "data": { "text": "random text", "font_size": 19 },
+                "instanceID": "9"
+            },
+            {
+                "origin": { "x": 0.25, "y": 1.4815, "z": -0.5 },
+                "size": { "width": 0.007, "height": 0.014333, "depth": 0 },
+                "data": { "text": "$", "font_size": 36 },
+                "instanceID": "12"
+            },
+            {
+                "origin": { "x": 0.204167, "y": 1.4705, "z": -0.5 },
+                "size": { "width": 0.0435, "height": 0.025333, "depth": 0 },
+                "data": { "text": "1.99", "font_size": 64 },
+                "instanceID": "13"
+            },
+            {
+                "origin": { "x": 0.2625, "y": 1.488167, "z": -0.5 },
+                "size": { "width": 0.035, "height": 0.007667, "depth": 0 },
+                "data": { "text": "random text", "font_size": 19 },
+                "instanceID": "16"
+            },
+            {
+                "origin": { "x": 0.083333, "y": 1.114833, "z": -0.5 },
+                "size": { "width": 0.007, "height": 0.014333, "depth": 0 },
+                "data": { "text": "$", "font_size": 36 },
+                "instanceID": "20"
+            },
+            {
+                "origin": { "x": 0.0375, "y": 1.103833, "z": -0.5 },
+                "size": { "width": 0.0435, "height": 0.025333, "depth": 0 },
+                "data": { "text": "1.99", "font_size": 64 },
+                "instanceID": "21"
+            },
+            {
+                "origin": { "x": 0.095833, "y": 1.1215, "z": -0.5 },
+                "size": { "width": 0.035, "height": 0.007667, "depth": 0 },
+                "data": { "text": "random text", "font_size": 19 },
+                "instanceID": "24"
+            },
+            {
+                "origin": { "x": 0.166667, "y": 1.8815, "z": -1.75 },
+                "size": { "width": 0.007, "height": 0.014333, "depth": 0 },
+                "data": { "text": "$", "font_size": 36 },
+                "instanceID": "32"
+            },
+            {
+                "origin": { "x": 0.120833, "y": 1.8705, "z": -1.75 },
+                "size": { "width": 0.0435, "height": 0.025333, "depth": 0 },
+                "data": { "text": "1.99", "font_size": 64 },
+                "instanceID": "33"
+            },
+            {
+                "origin": { "x": 0.179167, "y": 1.888167, "z": -1.75 },
+                "size": { "width": 0.035, "height": 0.007667, "depth": 0 },
+                "data": { "text": "random text", "font_size": 19 },
+                "instanceID": "36"
+            },
+            {
+                "origin": { "x": 0.416667, "y": 1.8815, "z": -1.75 },
+                "size": { "width": 0.007, "height": 0.014333, "depth": 0 },
+                "data": { "text": "$", "font_size": 36 },
+                "instanceID": "39"
+            },
+            {
+                "origin": { "x": 0.370833, "y": 1.8705, "z": -1.75 },
+                "size": { "width": 0.0435, "height": 0.025333, "depth": 0 },
+                "data": { "text": "1.99", "font_size": 64 },
+                "instanceID": "40"
+            },
+            {
+                "origin": { "x": 0.429167, "y": 1.888167, "z": -1.75 },
+                "size": { "width": 0.035, "height": 0.007667, "depth": 0 },
+                "data": { "text": "random text", "font_size": 19 },
+                "instanceID": "43"
+            },
+            {
+                "origin": { "x": 0.75, "y": 1.8815, "z": -1.75 },
+                "size": { "width": 0.007, "height": 0.014333, "depth": 0 },
+                "data": { "text": "$", "font_size": 36 },
+                "instanceID": "46"
+            },
+            {
+                "origin": { "x": 0.704167, "y": 1.8705, "z": -1.75 },
+                "size": { "width": 0.0435, "height": 0.025333, "depth": 0 },
+                "data": { "text": "1.99", "font_size": 64 },
+                "instanceID": "47"
+            },
+            {
+                "origin": { "x": 0.7625, "y": 1.888167, "z": -1.75 },
+                "size": { "width": 0.035, "height": 0.007667, "depth": 0 },
+                "data": { "text": "random text", "font_size": 19 },
+                "instanceID": "50"
+            },
+            {
+                "origin": { "x": -1.05, "y": 1.0815, "z": -1.25 },
+                "size": { "width": 0.007, "height": 0.014333, "depth": 0 },
+                "data": { "text": "$", "font_size": 36 },
+                "instanceID": "59"
+            },
+            {
+                "origin": { "x": -1.095833, "y": 1.0705, "z": -1.25 },
+                "size": { "width": 0.0435, "height": 0.025333, "depth": 0 },
+                "data": { "text": "1.99", "font_size": 64 },
+                "instanceID": "60"
+            },
+            {
+                "origin": { "x": -1.0375, "y": 1.088166, "z": -1.25 },
+                "size": { "width": 0.035, "height": 0.007667, "depth": 0 },
+                "data": { "text": "random text", "font_size": 19 },
+                "instanceID": "63"
+            },
+            {
+                "origin": { "x": -1.583333, "y": 0.240093, "z": -1.25 },
+                "size": { "width": 0.007, "height": 0.014333, "depth": 0 },
+                "data": { "text": "$", "font_size": 36 },
+                "instanceID": "69"
+            },
+            {
+                "origin": { "x": -1.629167, "y": 0.229093, "z": -1.25 },
+                "size": { "width": 0.0435, "height": 0.025333, "depth": 0 },
+                "data": { "text": "1.99", "font_size": 64 },
+                "instanceID": "70"
+            },
+            {
+                "origin": { "x": -1.570833, "y": 0.24676, "z": -1.25 },
+                "size": { "width": 0.035, "height": 0.007667, "depth": 0 },
+                "data": { "text": "random text", "font_size": 19 },
+                "instanceID": "73"
+            },
+            {
+                "origin": { "x": -1.95, "y": 0.0475, "z": -1.25 },
+                "size": { "width": 0.007, "height": 0.014333, "depth": 0 },
+                "data": { "text": "$", "font_size": 36 },
+                "instanceID": "77"
+            },
+            {
+                "origin": { "x": -1.995833, "y": 0.0365, "z": -1.25 },
+                "size": { "width": 0.0435, "height": 0.025333, "depth": 0 },
+                "data": { "text": "1.99", "font_size": 64 },
+                "instanceID": "78"
+            },
+            {
+                "origin": { "x": -1.9375, "y": 0.054167, "z": -1.25 },
+                "size": { "width": 0.035, "height": 0.007667, "depth": 0 },
+                "data": { "text": "random text", "font_size": 19 },
+                "instanceID": "81"
+            }
+        ]
+    },
+    {
+        "modelType": "priceblocktexture",
+        "instances": [
+            {
+                "origin": { "x": -0.2125, "y": 1.491667, "z": -0.5 },
+                "size": { "width": 0.008333, "height": 0.004167, "depth": 0 },
+                "instanceID": "7"
+            },
+            {
+                "origin": { "x": -0.154167, "y": 1.470833, "z": -0.5 },
+                "size": { "width": 0.035, "height": 0.0125, "depth": 0 },
+                "instanceID": "8"
+            },
+            {
+                "origin": { "x": 0.204167, "y": 1.491667, "z": -0.5 },
+                "size": { "width": 0.008333, "height": 0.004167, "depth": 0 },
+                "instanceID": "14"
+            },
+            {
+                "origin": { "x": 0.2625, "y": 1.470833, "z": -0.5 },
+                "size": { "width": 0.035, "height": 0.0125, "depth": 0 },
+                "instanceID": "15"
+            },
+            {
+                "origin": { "x": 0.0375, "y": 1.125, "z": -0.5 },
+                "size": { "width": 0.008333, "height": 0.004167, "depth": 0 },
+                "instanceID": "22"
+            },
+            {
+                "origin": { "x": 0.095833, "y": 1.104167, "z": -0.5 },
+                "size": { "width": 0.035, "height": 0.0125, "depth": 0 },
+                "instanceID": "23"
+            },
+            {
+                "origin": { "x": 0.120833, "y": 1.891667, "z": -1.75 },
+                "size": { "width": 0.008333, "height": 0.004167, "depth": 0 },
+                "instanceID": "34"
+            },
+            {
+                "origin": { "x": 0.179167, "y": 1.870833, "z": -1.75 },
+                "size": { "width": 0.035, "height": 0.0125, "depth": 0 },
+                "instanceID": "35"
+            },
+            {
+                "origin": { "x": 0.370833, "y": 1.891667, "z": -1.75 },
+                "size": { "width": 0.008333, "height": 0.004167, "depth": 0 },
+                "instanceID": "41"
+            },
+            {
+                "origin": { "x": 0.429167, "y": 1.870833, "z": -1.75 },
+                "size": { "width": 0.035, "height": 0.0125, "depth": 0 },
+                "instanceID": "42"
+            },
+            {
+                "origin": { "x": 0.704167, "y": 1.891667, "z": -1.75 },
+                "size": { "width": 0.008333, "height": 0.004167, "depth": 0 },
+                "instanceID": "48"
+            },
+            {
+                "origin": { "x": 0.7625, "y": 1.870833, "z": -1.75 },
+                "size": { "width": 0.035, "height": 0.0125, "depth": 0 },
+                "instanceID": "49"
+            },
+            {
+                "origin": { "x": -1.095833, "y": 1.091666, "z": -1.25 },
+                "size": { "width": 0.008333, "height": 0.004167, "depth": 0 },
+                "instanceID": "61"
+            },
+            {
+                "origin": { "x": -1.0375, "y": 1.070833, "z": -1.25 },
+                "size": { "width": 0.035, "height": 0.0125, "depth": 0 },
+                "instanceID": "62"
+            },
+            {
+                "origin": { "x": -1.629167, "y": 0.25026, "z": -1.25 },
+                "size": { "width": 0.008333, "height": 0.004167, "depth": 0 },
+                "instanceID": "71"
+            },
+            {
+                "origin": { "x": -1.570833, "y": 0.229426, "z": -1.25 },
+                "size": { "width": 0.035, "height": 0.0125, "depth": 0 },
+                "instanceID": "72"
+            },
+            {
+                "origin": { "x": -1.995833, "y": 0.057667, "z": -1.25 },
+                "size": { "width": 0.008333, "height": 0.004167, "depth": 0 },
+                "instanceID": "79"
+            },
+            {
+                "origin": { "x": -1.9375, "y": 0.036833, "z": -1.25 },
+                "size": { "width": 0.035, "height": 0.0125, "depth": 0 },
+                "instanceID": "80"
+            }
+        ]
+    }
+]
